@@ -1,0 +1,27 @@
+h1
+{
+text-align:center;
+margin-bottom:50px;
+}
+h5
+{
+border:solid;
+float:right;
+background-color:pink;
+margin:0;
+}
+p{
+clear:right;
+}
+#box
+{
+margin:0;
+border:solid;
+background-color:grey;
+width:250px;
+box-sizing: border-box;
+margin-bottom:10px;
+margin-right:60px;
+float:left;
+position:center;
+}
